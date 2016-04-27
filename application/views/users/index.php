@@ -14,7 +14,7 @@
 	<div class="wrapper">
 		<div class="container">
 			<h1>Welcome!</h1>	
-			<form method="POST" action='/users/new' class="register">
+			<form method="POST" action='/users/newUser' class="register">
 				<h4 class="register"> Register an Account</h4>
 					<label class="register">Name:</label> 
 

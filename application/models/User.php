@@ -135,9 +135,6 @@ class User extends CI_Model
 				//there was an issue writing data, so return false
 				return false;
 			}
-					  
-
-
 	}
 
 }	
